@@ -7,7 +7,7 @@ export default function Home() {
   return (
     
       <>
-      <Header/>
+     
       <Hero/>
       <HomeMenu/>
       <section className="text-center my-16">
@@ -41,10 +41,7 @@ export default function Home() {
       </a>
       </div>
       </section>
-      <footer className="border-t p-8 text-center text-gray-500
-      mt-16">
-        &copy; 2023 All rights reserved
-      </footer>
+     
       </>
     
   );
